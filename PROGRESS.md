@@ -5,7 +5,7 @@
 - Next: Day 2 (28 Oct), core Python on small text examples
 
 ## Decisions
-- North = Annex I (to confirm), South = non-Annex I
+- North = Annex I, South = non-Annex I (confirmed 27 Oct; revisit after counting NAPs on NAP Central)
 - Plan for 12 working days, finishing by 7 Nov (deadline 8 Nov)
 - Commits use GitHub's private noreply email
 - Using GitHub Desktop for add/commit/push instead of Terminal
