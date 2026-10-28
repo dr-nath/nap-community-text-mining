@@ -33,3 +33,11 @@
 
 ## Next step
 - Day 2: start Jupyter, then Python basics
+
+## Update 28 Oct (verified on napcentral.org)
+- Developing-country list: 81 NAPs (last update 7 Oct 2026). Developed-country list: 12 plans (last update 5 Nov 2025): AUS, AUT, CAN, FIN, FRA, DEU, IRL, NZL, NLD, ESP, GBR, USA
+- Hybrid sourcing DROPPED. Both groups come from NAP Central. Earlier worry (no Annex I NAPs) was wrong
+- To verify: all 12 are Annex I (and Annex II?) against the UNFCCC Parties list
+- Plan: 12 North vs 12 South, South sampled at random (fixed seed) from English-language national non-sectoral NAPs
+- Limitations: English-only bias, developed-country plans "shared" not "submitted", page possibly out of date, document types differ (e.g. USA "strategy")
+- Terms of use: still to read and copy
