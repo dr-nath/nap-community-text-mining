@@ -41,3 +41,4 @@
 - Plan: 12 North vs 12 South, South sampled at random (fixed seed) from English-language national non-sectoral NAPs
 - Limitations: English-only bias, developed-country plans "shared" not "submitted", page possibly out of date, document types differ (e.g. USA "strategy")
 - Terms of use: still to read and copy
+- Day 2 (28 Oct) done: variables, strings, lists, dictionaries, loops, functions; regex tokenizer keeping hyphenated words (decision B)
